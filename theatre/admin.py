@@ -21,9 +21,6 @@ class ReservationAdmin(admin.ModelAdmin):
     inlines = [TicketInline,]
 
 
-# admin.site.register(Reservation)
-
-
 admin.site.register(TheatreHall)
 admin.site.register(Genre)
 admin.site.register(Actor)
