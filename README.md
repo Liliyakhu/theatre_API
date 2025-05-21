@@ -47,11 +47,10 @@ docker compose up
 
 ## Screenshots
 ### Register:
+![Screenshot from 2025-05-21 13-57-54](https://github.com/user-attachments/assets/e7ec2a45-bb06-4eab-904f-26b4084ed75a)
 
-[//]: # (![Screenshot from 2024-12-04 22-50-13]&#40;https://github.com/user-attachments/assets/c4de94e1-47e6-4aef-a841-a40e01c3d2b6&#41;)
 ### Receive your token:
+![Screenshot from 2025-05-21 13-59-27](https://github.com/user-attachments/assets/321a54ee-2cb5-4b63-bdad-5c441e5344fc)### Use theatre app:
 
-[//]: # (![Screenshot from 2024-12-04 22-51-12]&#40;https://github.com/user-attachments/assets/f726ec01-1250-40c6-b209-d2ccc64900ea&#41;)
-### Use theatre app:
-
-[//]: # (![Screenshot from 2024-12-04 22-55-25]&#40;https://github.com/user-attachments/assets/d54dbd9b-b469-4455-9212-72cbfe21034f&#41;)
+### Ready to use theatre app
+![Screenshot from 2025-05-21 14-00-52](https://github.com/user-attachments/assets/bb4c50ec-d252-441f-a220-7c59d8632ffd)
