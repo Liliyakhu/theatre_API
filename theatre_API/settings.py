@@ -142,7 +142,7 @@ USE_TZ = True
 
 STATIC_URL = "static/"
 
-MEDIA_URL = "/media/"
+MEDIA_URL = "/files/media/"
 MEDIA_ROOT = BASE_DIR / "media"
 
 
@@ -153,9 +153,9 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 
 REST_FRAMEWORK = {
-    "DEFAULT_PERMISSION_CLASSES": [
-        "theatre.permissions.IsAdminOrIfAuthenticatedReadOnly",
-    ],
+    # "DEFAULT_PERMISSION_CLASSES": [
+    #     "theatre.permissions.IsAdminOrIfAuthenticatedReadOnly",
+    # ],
     "DEFAULT_AUTHENTICATION_CLASSES": [
         "rest_framework_simplejwt.authentication.JWTAuthentication",
     ],
